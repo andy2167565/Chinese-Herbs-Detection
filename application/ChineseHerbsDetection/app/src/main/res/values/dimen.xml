@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vertical_padding">16dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="button_width">300dp</dimen>
+    <dimen name="button_height">64dp</dimen>
+    <dimen name="button_radius">40dp</dimen>
+    <dimen name="card_border">4dp</dimen>
+    <dimen name="card_inner_padding">8dp</dimen>
+    <dimen name="loading_size">200dp</dimen>
+</resources>
